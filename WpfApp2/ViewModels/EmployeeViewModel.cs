@@ -20,6 +20,8 @@ namespace WpfApp2.ViewModels
 
         }
 
+
+
         public IList<Employee> Employees
         {
             get { return employees; }
