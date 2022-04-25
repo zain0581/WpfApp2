@@ -31,11 +31,7 @@ namespace WpfApp2
 
         private void btn1_Click(object sender, RoutedEventArgs e)
         {
-            double my = 12.33;
-            int myint;
-            myint = (int)my;
-            Console.WriteLine(myint);  
-            string name = myint .ToString();
+         
         }
     }
 }

@@ -67,7 +67,7 @@ namespace WpfApp2.Models
                     handler(this, new PropertyChangedEventArgs(propertyName));
                 }
             }
-
+        
             //PropertyChanged is interface member
             public event PropertyChangedEventHandler PropertyChanged;
 
